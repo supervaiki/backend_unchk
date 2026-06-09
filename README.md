@@ -1,7 +1,19 @@
 # 📋 Implémentation Backend UNCHK
 
 ## 
+Accès à la documentation API
 
+Une fois l'application démarrée, la documentation interactive Swagger est accessible à l'adresse :
+
+http://localhost:8080/swagger-ui/index.html
+
+Cette interface permet de :
+
+Consulter tous les endpoints disponibles
+Tester les requêtes directement depuis le navigateur
+Vérifier les schémas de données (DTO)
+Authentifier les utilisateurs via JWT
+Générer automatiquement la documentation OpenAPI
 ---
 
 ## 📦 Fichiers Créés/Modifiés: 70+
